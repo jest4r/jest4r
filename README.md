@@ -3,7 +3,7 @@
 <img align="center" height="500" weight="600" src="https://i.imgflip.com/9iw1jx.gif"  />
 
 # 💫 About Me:
-👩🏻‍🎓  I'm studying at University of Engineering and Technology, Viet Nam National University.<br>👨🏻‍💻 I'm currently learning on Computer Networks and Data Communications.<br>🔭 I’m looking forward to working on Cloud Computing and DevOps Engineering.<br>🌱 I’m hopefully trying to become an IT Product Manager.<br>📫 Reach me at jeremytruong0204@gmail.com<br><br> 
+👩🏻‍🎓  I'm studying at University of Engineering and Technology, Viet Nam National University.<br>👨🏻‍💻 I'm currently having my exchange study at Seoul National University <br> My major focuses on Computer Networks and Data Communications, deeply using Machine Learning approach to enhance core network .<br>🔭 I’m looking forward to working on Cloud Computing and DevOps Engineering.<br>🌱 I’m hopefully trying to become an IT Product Manager.<br>📫 Reach me at jeremytruong0204@gmail.com<br><br> 
 
 
 ## 🌐 Socials:
